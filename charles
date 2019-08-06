@@ -1,0 +1,10 @@
+# charles mac
+## 下载
+https://www.charlesproxy.com/
+## 注册
+Registered Name: https://zhile.io
+License Key: 48891cf209c6d32bf4
+## 设置代理
+proxy > macOS proxy
+## 捕捉 localhost 流量
+macOS Mojave 下，Charles 捕捉不到 http://localhost 下的流量，需要使用 http://localhost.charlesproxy.com 形式的域名，并添加绑定 127.0.0.1 localhost.charlesproxy.com。这是因为可能有些系统设置了 localhost 不通过代理。
